@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name": "Aritra Dutta",
+    "occupation": "Electronics Student",
+    "description": "Do Your Best & Forget The Rest",
+    "image": "profilepic.JPG",
+    "bio": "Hi there! I am Aritra. I am persuing my undergraduation in Electronics & Communication Engineering from University Of Engineering & Management , Kolkata. I had completed my plus two and intermediate from Ranaghat PC High School and secured 87% in WBBSE & 84% in WBCHSE. I am an innovative and enthusiastic person. I am focused and learning new things excites me. My passion in life is to gain knowledge. Knowledge gives you power to be right and better than others.I don't fear failures or rejections they are ways to enrich you and glorify your personality. Failures are experiences you gain from your mistakes.I aspire to be an excellent Software Engineer and use my skills to make something productive and helpful for the nation. MY greatest strength is my positive attitude , even during the most hardest of times. My only weakness is to never give up no matter how hard things hit me , how much they destroy me I accept them as a challenge and don't let them break me.",
+    "contactmessage": "Get in touch with me : ",
+    "email": "aritradutta@gmail.com",
+    "phone": "+91 9641965688",
+    "address": {
+      "street": "Nasrapara Lane",
+      "city": "Ranaghat",
+      "state": "West Bengal",
+      "zip": "741 201"
+    },
+    "website": "https://digital-cv-46a62.web.app/",
+    "resumedownload": "https://drive.google.com/file/d/1jw05t4PtUmrIOQevfReK0Mb4yen0VBE-/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/aritra-dutta-257716178/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/aritra120",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/aritra.rajdutta",
+        "className": "fa fa-facebook"
+      }
+      
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Engineering & Management , Kolkata",
+        "degree": "Bachelor's Degree, Electronics & Communication",
+        "graduated": "July 2022",
+        "description": "Persuing"
+      }
+    ],
+    "work": [
+      {
+        "company": "Bytera Inc.",
+        "title": "Web Development Intern",
+        "years": "Feb 2022 - Present",
+        "description": "Working with their Eagle Team. Developing web version of their anroid-ios app named 'Campus 24' with React & Firebase. Using Git & Trello as side tools."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "75%"
+      },
+      {
+        "name": "CSS3",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "React",
+        "level": "60%"
+      },
+      {
+        "name": "Firebase",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "The Nazim's",
+        "category": "Website",
+        "image": "res.PNG",
+        "url": "https://aritra120.github.io/Resturant__Website/"
+      },
+      {
+        "title": "Digital CV",
+        "category": "React Based",
+        "image": "resume.PNG",
+        "url": "https://digital-cv-46a62.web.app/"
+      },
+      {
+        "title": "Game Zone",
+        "category": "JS-Gmae",
+        "image": "jsgame.PNG",
+        "url": "https://aritra120.github.io/Game_Zone/"
+      },
+      {
+        "title": "Tesla Clone",
+        "category": "Clone",
+        "image": "clone.PNG",
+        "url": "https://tesla-clone-7f2e5.web.app/"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Aritra is hard working, focused. His knowledge about electronics and Arduino is exceptional. I have worked with him for a project being in the same group and his leadership skills and management skills are great too.",
+        "user": "Somsubhra Das"
+      },
+      {
+        "text": "First of all Aritra is so humble and talented person,his learning and research skills are truly phenomenal. At the time of manufacturing the student formula one car and atv vehicle he got a post which is Resource Management. He has done his job very well.",
+        "user": "Sourav Dhali"
+      }
+    ]
+  }
+}
